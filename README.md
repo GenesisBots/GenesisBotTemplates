@@ -58,11 +58,9 @@ You stay in full control.
 
 🛠️ How to Use
 Clone the repo:
-
 Code
 git clone https://github.com/GenesisBots/GenesisBots.git
 Pick a bot:
-
 Code
 cd bots/momentum_trader
 pip install -r requirements.txt
