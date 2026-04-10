@@ -1,0 +1,19 @@
+{
+    "name": "Options Flow Analyzer Bot",
+    "mode": "paper",
+    "broker": "alpaca",
+    "symbols": [
+        "SPY"
+    ],
+    "timeframe": "1h",
+    "risk": {
+        "max_position_size_pct": 0.05,
+        "max_daily_loss_pct": 0.02,
+        "max_leverage": 1.0
+    },
+    "strategy": {
+        "lookback_bars": 50,
+        "entry_threshold": 1.5,
+        "exit_threshold": 0.5
+    }
+}

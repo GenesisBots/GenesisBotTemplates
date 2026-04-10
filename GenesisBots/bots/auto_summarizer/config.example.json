@@ -1,0 +1,10 @@
+{
+    "name": "Auto-Summarizer Bot",
+    "mode": "paper",
+    "service": "openai",
+    "task": {
+        "description": "Describe what this bot does here.",
+        "input_source": "file_or_api",
+        "output_target": "console_or_file"
+    }
+}
