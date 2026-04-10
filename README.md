@@ -15,7 +15,7 @@ Just clean, usable code.
 The GenesisBot v1 Pack includes 19 high‑quality bot templates across three categories:
 
 Trading Bots
-Momentum Trader Kraken Template & Full Bot
+Momentum Trader Kraken Template & Full Bot - https://github.com/GenesisBots/KrakenMomentumBot 
 
 Mean Reversion
 
