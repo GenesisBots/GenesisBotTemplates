@@ -17,46 +17,12 @@ The GenesisBot v1 Pack includes 19 high‑quality bot templates across three cat
 Trading Bots
 Momentum Trader Kraken Template & Full Bot - https://github.com/GenesisBots/KrakenMomentumBot 
 
-Mean Reversion
-
-Breakout
-
-Arbitrage Scanner
-
-News Sentiment Trader
-
-Options Flow Analyzer
-
-Crypto Sniper
-
-Risk Manager
-
-Automation & AI Bots
-Auto‑Research
-
-Auto‑Summarizer
-
-Reviewer / Critic
-
-Data Cleaner
-
-Web Scraper
-
-Auto‑Responder
-
-Email Classifier
+Mean Reversion, Breakout, Arbitrage Scanner, News Sentiment Trader, Options Flow Analyzer, Crypto Sniper, Risk Manager, Automation & AI Bots, Auto‑Research, Auto‑Summarizer, Reviewer / Critic, Data Cleaner, Web Scraper, Auto‑Responder, Email Classifier
 
 Gaming & Creative Bots
-NPC Dialogue Generator
-
-Game Strategy Bot
-
-Meme‑to‑Signal Bot
-
-AI Companion
+NPC Dialogue Generator, Game Strategy Bot, Meme‑to‑Signal Bot, AI Companion
 
 Each bot lives in its own folder with:
-
 Code
 bot.py
 config.example.json
