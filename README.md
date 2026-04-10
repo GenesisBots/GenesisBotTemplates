@@ -59,7 +59,7 @@ You stay in full control.
 🛠️ How to Use
 Clone the repo:
 Code
-git clone https://github.com/GenesisBots/GenesisBots.git
+git clone https://github.com/GenesisBots/GenesisBotTemplates.git
 Pick a bot:
 Code
 cd bots/momentum_trader
