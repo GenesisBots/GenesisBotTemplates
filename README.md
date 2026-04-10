@@ -1,5 +1,5 @@
 ## Hi there 👋
-⭐ GenesisBots — Free AI Bot Templates for Everyone
+⭐ GenesisBots — Free AI Bots and Bot Templates for Everyone
 Welcome to GenesisBots, a growing collection of free, open‑source AI bot templates built for developers, traders, researchers, and creators.
 
 This project exists for one purpose:
@@ -15,7 +15,7 @@ Just clean, usable code.
 The GenesisBot v1 Pack includes 19 high‑quality bot templates across three categories:
 
 Trading Bots
-Momentum Trader
+Momentum Trader Kraken Template & Full Bot
 
 Mean Reversion
 
